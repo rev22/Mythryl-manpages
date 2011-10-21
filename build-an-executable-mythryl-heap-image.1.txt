@@ -1,5 +1,5 @@
 dnl -*- stx -*-
-dnl Process this file with stx2any -T man to generate a manpage
+dnl Process this file with 'stx2any -T man' to generate a manpage
 w_title(build-an-executable-mythryl-heap-image)dnl
 w_doc_id(baemhiman)dnl
 w_section(1)dnl
@@ -8,7 +8,7 @@ w_man_desc(Compile Mythryl sources into an executable heap file)
 
 ! SYNOPSIS
 
-''bin/build-an-executable-mythryl-heap-image''  /root_group/  /main_function/ [ /heap_file/ ]
+''build-an-executable-mythryl-heap-image''  /root_group/  /main_function/ [ /heap_file/ ]
 
 ! DESCRIPTION
 
