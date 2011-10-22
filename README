@@ -1,0 +1,3 @@
+The documents in this directory are in structured text.
+
+They are meant to be processed by 'stx2any -T man' to create the man pages.
