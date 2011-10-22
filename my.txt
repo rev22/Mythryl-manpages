@@ -1,4 +1,4 @@
-dnl -*- stx -*-
+dnl This is -*- stx -*- structured text
 dnl Process this file with stx2any
 w_title(my)dnl
 w_doc_id(mymythrylman)dnl
