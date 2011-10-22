@@ -37,7 +37,7 @@ language, or the compiler functionality.
 ''rlwrap mythryld''::
 	Starts mythryld with command line history and editing
 	provided by ''rlwrap''.  ''rlwrap'' is not provided by the
-	mythryl compiler suite	but can be installed separetely.
+	mythryl compiler suite but can be installed separately.
 
 ! SEE ALSO
 

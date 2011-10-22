@@ -15,10 +15,10 @@ w_man_desc(Executable for Mythryl scripts)
 The command ''mythryl'' is invoked by mythryl scripts using a shebang
 line, ''#!/usr/bin/mythryl'', as the start of the script.
 
-For an interactive Mythryl session invoke instead ''mythryld''
+For an interactive Mythryl session invoke instead ''mythryld'' (1).
 
 To compile mythryl source code into an executable file you can use
-''build-an-executable-mythryl-heap-image''.
+''build-an-executable-mythryl-heap-image'' (1).
 
 ! SEE ALSO
 
