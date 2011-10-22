@@ -4,19 +4,17 @@ w_title(my)dnl
 w_doc_id(mymythrylman)dnl
 w_section(1)dnl
 w_author(Michele Bini)dnl
-w_man_desc(Interactive Mythryl session)dnl
+w_man_desc(Interactive Mythryl session)
 
 ! SYNOPSIS
 
 ''my''
 
-''my'' [ /runtime system args/ ] [ /options/ ] [ /files/ ]
-
-''my'' -h
+''my'' [ /mythryld options/ ]
 
 ! DESCRIPTION
 
-''my'' is a shorthand command for ''mythryld'', which starts an
+''my'' is a shorthand command for ''mythryld'', and can be used to start an
 interactive Mythryl session.
 
 ! OPTIONS
@@ -28,7 +26,7 @@ Please consult ''mythryld''
 ''rlwrap my''::
 	Starts mythryld with command line history and editing
 	provided by ''rlwrap''.  ''rlwrap'' is not provided by the
-	mythryl compiler suite	but can be installed separetely.
+	mythryl compiler suite but can be installed separetely.
 
 ! SEE ALSO
 

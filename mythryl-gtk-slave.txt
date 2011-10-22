@@ -4,7 +4,7 @@ w_title(mythryl-gtk-slave)dnl
 w_doc_id(mythrylgtkslaveman)dnl
 w_section(1)dnl
 w_author(Michele Bini)dnl
-w_man_desc(GTK+ server for Mythryl applications)dnl
+w_man_desc(GTK+ server for Mythryl applications)
 
 ! SYNOPSIS
 
