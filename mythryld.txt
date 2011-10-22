@@ -29,7 +29,7 @@ language, or the compiler functionality.
 
 ! OPTIONS
 
-''-h''
+''-h''::
 	Display more help on the available options.
 
 ! EXAMPLE
