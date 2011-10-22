@@ -1,0 +1,29 @@
+adnl -*- stx -*-
+dnl Process this file with: stx2any
+w_title(mythryld)dnl
+w_doc_id(mythryldman)dnl
+w_section(1)dnl
+w_author(Michele Bini)dnl
+w_man_desc(Executable for Mythryl scripts)
+
+! SYNOPSIS
+
+''#!/usr/bin/mythryl''
+
+! DESCRIPTION
+
+The command ''mythryl'' is invoked by mythryl scripts using a shebang
+line, ''#!/usr/bin/mythryl'', as the start of the script.
+
+For an interactive Mythryl session invoke instead ''mythryld''
+
+To compile mythryl source code into an executable file you can use
+''build-an-executable-mythryl-heap-image''.
+
+! SEE ALSO
+
+''build-an-executable-mythryl-heap-image'' (1), ''mythryld'' (1)
+
+! AUTHOR
+
+This page was written by w_author.
