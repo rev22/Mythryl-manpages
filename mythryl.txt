@@ -1,18 +1,23 @@
-dnl This is -*- stx -*- structured text
+dnl This is structured text -*- stx -*-
 dnl Process this file with: stx2any
 w_title(mythryld)dnl
 w_doc_id(mythryldman)dnl
 w_section(1)dnl
 w_author(Michele Bini)dnl
-w_man_desc(Executable for Mythryl scripts)
+w_man_desc(Execute Mythryl scripts)
 
 ! SYNOPSIS
+
+''mythryl'' /script/
 
 ''#!/usr/bin/mythryl''
 
 ! DESCRIPTION
 
-The command ''mythryl'' is invoked by mythryl scripts using a shebang
+The command ''mythryl'' executes Mythryl scripts,
+compiling them on the fly.
+
+It can be invoked by Mythryl scripts using a shebang
 line, ''#!/usr/bin/mythryl'', as the start of the script.
 
 For an interactive Mythryl session invoke instead ''mythryld'' (1).

@@ -1,4 +1,4 @@
-dnl This is -*- stx -*- structured text
+dnl This is structured text -*- stx -*-
 dnl Process this file with 'stx2any -T man' to generate a manpage
 w_title(mythryl-runtime-ia32)dnl
 w_doc_id(mythrylruntimeia32)dnl
