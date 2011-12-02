@@ -9,4 +9,4 @@ MANPAGES=my.1 build-an-executable-mythryl-heap-image.1 mythryl-gtk-slave.1 mythr
 all: $(MANPAGES)
 
 clean:
-	rm -rf $(MANPAGES)
+	rm -rf $(MANPAGES) *.ps
