@@ -6,11 +6,13 @@ w_section(1)dnl
 w_author(Michele Bini)dnl
 w_man_desc(Interactive Mythryl session)
 
+
 ! SYNOPSIS
 
 ''my''
 
 ''my'' [ /mythryld options/ ]
+
 
 ! DESCRIPTION
 
@@ -21,6 +23,7 @@ interactive Mythryl session.
 
 Please consult ''mythryld'' (1)
 
+
 ! EXAMPLE
 
 ''rlwrap my''::
@@ -28,9 +31,11 @@ Please consult ''mythryld'' (1)
 	provided by ''rlwrap'' (1).  ''rlwrap'' is not provided by the
 	mythryl compiler suite but can be installed separately.
 
+
 ! SEE ALSO
 
 ''mythryld'' (1)
+
 
 ! AUTHOR
 
