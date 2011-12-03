@@ -11,5 +11,5 @@ all: $(MANPAGES)
 clean:
 	rm -rf *.ps
 
-clean-manpages:
+maintainer-clean:
 	rm -rf $(MANPAGES)
