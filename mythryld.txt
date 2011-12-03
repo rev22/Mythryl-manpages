@@ -32,13 +32,13 @@ arbitrary Mythryl expressions.
 
 ! OPTIONS
 
-''-E /expression/''
+''-E /expression/''::
 	Print result of expression.
 
 ''-e /expression/''::
 	Print result of expression and quit.
 
-''-x /expression/''
+''-x /expression/''::
 	Print result of expression followed by a newline, then quit.
 
 ''-h''::
