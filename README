@@ -1,5 +1,6 @@
 
-The documents in this directory are in structured text.
+The documents in this directory are in a lightweight markup language.
 
-They are meant to be processed by 'stx2any -T man' to create the man pages.
+They can be processed by 'stx2any -T man' (manually or via the
+Makefile) to create the man pages.
 
