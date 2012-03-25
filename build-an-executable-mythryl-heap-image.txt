@@ -16,7 +16,7 @@ w_man_desc(Compile Mythryl sources into an executable heap file)
 sources into an executable file.
 
 The resulting executable depends on the mythryl runtime,
-''mythryl-runtime-ia32''.
+''mythryl-runtime-intel32''.
 
 ! OPTIONS
 
@@ -33,7 +33,7 @@ No extra options are currently documented.
 
 ! SEE ALSO
 
-''mythryld'' (1), ''mythryl-runtime-ia32'' (1), ''mythryl-ld'' (1)
+''mythryld'' (1), ''mythryl-runtime-intel32'' (1), ''mythryl-ld'' (1)
 
 ! AUTHOR
 

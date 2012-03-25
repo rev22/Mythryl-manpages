@@ -15,7 +15,7 @@ and .lib.frozen files to produce an heap image file.
 ! SEE ALSO
 
 ''build-an-executable-mythryl-heap-image'' (1),
-''mythryl-runtime-ia32'' (1)
+''mythryl-runtime-intel32'' (1)
 
 ! AUTHOR
 
